@@ -2,7 +2,6 @@
 
 **##Sobre mim**
 - Cursando Sistemas de Informação na USP
-- Corinthiano
 
 **#Domínios**
 - Linguagem C e C++
